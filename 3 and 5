@@ -101,7 +101,4 @@ glutKeyboardFunc(keys);
 glEnable(GL_DEPTH_TEST);
 glutMainLoop();
 }
-OUTPUT
-Rotation about X-axis
-Rotation about Y-axis
-Rotation about Z-axis
+
